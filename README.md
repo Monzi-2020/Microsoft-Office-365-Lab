@@ -1,9 +1,9 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Microsoft Office 365 Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Notion Page](https://www.notion.so/Microsoft-365-f0f9101b985e4a1bbde3cbe73937b031?pvs=4)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This lab provides diverse features that can be helpful to perform as a level 1 help desk support engineer. ~~~
 <br />
 
 
